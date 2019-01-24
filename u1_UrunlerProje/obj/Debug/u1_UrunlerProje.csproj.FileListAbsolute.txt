@@ -1,0 +1,12 @@
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\bin\Debug\u1_UrunlerProje.exe.config
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\bin\Debug\u1_UrunlerProje.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\bin\Debug\u1_UrunlerProje.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\obj\Debug\u1_UrunlerProje.csprojResolveAssemblyReference.cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\obj\Debug\u1_UrunlerProje.Form1.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\obj\Debug\u1_UrunlerProje.Properties.Resources.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\obj\Debug\u1_UrunlerProje.csproj.GenerateResource.Cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\obj\Debug\u1_UrunlerProje.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\obj\Debug\u1_UrunlerProje.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\obj\Debug\u1_UrunlerProje.FrmKup.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\obj\Debug\u1_UrunlerProje.FrmDortgen.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_9Ocak2019\u1_UrunlerProje\u1_UrunlerProje\obj\Debug\u1_UrunlerProje.FrmSilindir.resources
